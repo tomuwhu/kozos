@@ -1,3 +1,26 @@
 body {
-  background-color: rgb(193, 40, 135);
+  background-color: rgb(255, 255, 255);
+}
+td.x1 {
+  background: transparent;
+  box-shadow: none;
+}
+td.x2 {
+  background-color: rgb(223, 134, 149);
+}
+td.x3 {
+  background-color: rgb(254, 251, 166);
+}
+td {
+  background-color: aqua;
+  width: 55px;
+  height: 35px;
+  border-radius: 6px;
+  box-shadow: 1px 1px 3px black;
+  text-align: center;
+  font-size: 18px;
+}
+table {
+  margin: auto;
+  border-spacing: 10px;
 }
